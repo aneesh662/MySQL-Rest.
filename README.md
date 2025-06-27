@@ -1,4 +1,4 @@
-# 🍽️ MySQL Data Analyst Portfolio Project – Restaurant Menu Analysis
+# 🍽️ MySQL Data Analyst Project – Restaurant Menu Analysis
 
 ![SQL Banner](https://user-images.githubusercontent.com/your-banner-image.png)
 
