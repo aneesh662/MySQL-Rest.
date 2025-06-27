@@ -41,7 +41,7 @@ The restaurant launched a new menu and started collecting order details. This an
 7. Calculated average price per category
 
 **Sample SQL Query:**
-```sql
+
 SELECT category, COUNT(*) AS item_count, AVG(price) AS avg_price
 FROM menu_items
 GROUP BY category;
